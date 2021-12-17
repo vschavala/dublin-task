@@ -18,3 +18,7 @@ using the text file as the input
 4. docker-compose build 
 
 5. docker-compose up -d
+
+## Screen shot
+
+![Screenshot](dublin.png)
